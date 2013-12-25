@@ -31,8 +31,17 @@ Contenidos:
 .. toctree::
    :maxdepth: 2
 
-   install
-   deploy
+   que_es_amaru
+   antecedentes
+   situacion
+   definiciones_raiz
+   modelos_conceptuales
+   comparacion_realidad
+   cambios_deseables_factibles
+   realizacion
+   organizaciones_de_base
+   sistema_ayuda_decision
+   implementacion
 
 
 
