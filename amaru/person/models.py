@@ -68,4 +68,4 @@ class Member(models.Model):
 
     class Meta:
         unique_together = ('person', 'group')
-        ordering = ['name']
+        ordering = ['person', 'group']
