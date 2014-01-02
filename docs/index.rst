@@ -15,7 +15,7 @@ sintió que sus flores se morían. El último capullo del cantú transformó sus
 fue hasta la cordillera y le cantó a una montaña que el mundo se moría debido a la gran sequedad. Y el colibrí,sediento
 y agotado, murió.
 
-Entrestecida por la devastación de la tierra y por el esfuerzo del colibrí, la montaña dejó escapar dos lágrimas que,
+Entristecida por la devastación de la tierra y por el esfuerzo del colibrí, la montaña dejó escapar dos lágrimas que,
 como duras rocas, se abrieron paso ladera abajo hasta el lago, con gran estruendo. El ruido despertó al Amarú, la gran
 serpiente alada que duerme enroscada bajo la tierra, a lo largo de la cordillera.
 
